@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/devel
+
+Name: own_controller
+Description: Description of own_controller
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/devel/lib -lmoveit_ros_planning_interface
+Requires: roscpp rviz_visual_tools

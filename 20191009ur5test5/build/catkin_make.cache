@@ -1,0 +1,2 @@
+main_node:main_node3:own_controller:ur5_moveit_config:ur_description:ur_gazebo
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/doylewhy/efficient/moveit/20191009ur5test5/devel -DCMAKE_INSTALL_PREFIX=/home/doylewhy/efficient/moveit/20191009ur5test5/install

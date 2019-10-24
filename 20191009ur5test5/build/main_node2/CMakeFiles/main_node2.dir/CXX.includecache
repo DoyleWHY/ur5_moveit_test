@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doylewhy/efficient/moveit/20191009ur5test5/build/main_node2/main_node2_autogen/mocs_compilation.cpp
+
+/home/doylewhy/efficient/moveit/20191009ur5test5/src/main_node2/src/main_node2.cpp
+iostream
+-
+

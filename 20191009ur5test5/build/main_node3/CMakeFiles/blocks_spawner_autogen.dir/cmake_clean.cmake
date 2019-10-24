@@ -1,0 +1,16 @@
+file(REMOVE_RECURSE
+  "blocks_spawner_autogen"
+  "CMakeFiles/blocks_spawner_autogen.dir/AutogenOldSettings.cmake"
+  "qnode_receive_autogen"
+  "CMakeFiles/qnode_receive_autogen.dir/AutogenOldSettings.cmake"
+  "tf_receive_autogen"
+  "CMakeFiles/tf_receive_autogen.dir/AutogenOldSettings.cmake"
+  "main_88_autogen"
+  "CMakeFiles/main_88_autogen.dir/AutogenOldSettings.cmake"
+  "CMakeFiles/blocks_spawner_autogen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/blocks_spawner_autogen.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

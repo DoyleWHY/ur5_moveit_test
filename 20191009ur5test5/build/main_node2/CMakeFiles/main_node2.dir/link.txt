@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/main_node2.dir/src/main_node2.cpp.o CMakeFiles/main_node2.dir/main_node2_autogen/mocs_compilation.cpp.o  -o main_node2 

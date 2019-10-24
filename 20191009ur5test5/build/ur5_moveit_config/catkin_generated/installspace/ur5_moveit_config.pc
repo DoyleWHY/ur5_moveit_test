@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/install
+
+Name: ur5_moveit_config
+Description: Description of ur5_moveit_config
+Version: 1.2.5
+Cflags: 
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/main_node.dir/src/main_node.cpp.o CMakeFiles/main_node.dir/gui/form.cpp.o CMakeFiles/main_node.dir/main_node_autogen/mocs_compilation.cpp.o  -o main_node /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.9.5 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.9.5 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.9.5 

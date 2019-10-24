@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/main_node.dir/main_node.cpp.o  -o /home/doylewhy/efficient/moveit/20191009ur5test5/devel/lib/main_node3/main_node 

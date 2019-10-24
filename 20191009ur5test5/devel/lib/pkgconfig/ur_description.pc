@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/devel
+
+Name: ur_description
+Description: Description of ur_description
+Version: 1.2.5
+Cflags: 
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/devel/lib 
+Requires: 

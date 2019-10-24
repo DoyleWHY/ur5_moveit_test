@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/install
+
+Name: main_node3
+Description: Description of main_node3
+Version: 0.1.0
+Cflags: -I/home/doylewhy/efficient/moveit/20191009ur5test5/install/include
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/install/lib -lros_tutorials_topic -lrviz_visual_tools -lmoveit_ros_planning_interface
+Requires: std_msgs roscpp

@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/install
+
+Name: main_node2
+Description: Description of main_node2
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/install/lib 
+Requires: 

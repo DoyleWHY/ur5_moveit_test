@@ -1,0 +1,8 @@
+prefix=/home/doylewhy/efficient/moveit/20191009ur5test5/devel
+
+Name: main_node
+Description: Description of main_node
+Version: 0.1.0
+Cflags: -I/home/doylewhy/efficient/moveit/20191009ur5test5/devel/include
+Libs: -L/home/doylewhy/efficient/moveit/20191009ur5test5/devel/lib -lros_tutorials_topic
+Requires: std_msgs roscpp urdf
